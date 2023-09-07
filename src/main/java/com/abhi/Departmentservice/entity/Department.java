@@ -9,7 +9,7 @@ import javax.persistence.*;
 @NoArgsConstructor
 @AllArgsConstructor
 @Builder
-
+@Table
 // Class
 public class Department {
 
